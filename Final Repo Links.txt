@@ -1,0 +1,7 @@
+FINAL CODE:
+
+Next.js Website - https://github.com/bradtraversy/dj-events-frontend
+
+Strapi Backend - https://github.com/bradtraversy/dj-events-backend
+
+View the commits to see the code at any specific point in the course
